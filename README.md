@@ -37,13 +37,13 @@ This project documents a practical task assigned by my internship instructor. Th
 
  4. Steps Followed
 
-1. Created and configured the Kali Linux and Windows 10 virtual machines in VirtualBox.
-2. Connected both virtual machines to the same NAT Network.
-3. Configured and checked their IP addresses and network settings.
-4. Used 'ip addr' and 'ip route` on Kali Linux to check the network configuration.
-5. Used 'ipconfig /all` on Windows to check its network settings.
-6. Used 'ping` to test connectivity between the two machines.
-7. Investigated network issues and made adjustments where necessary.
+- Created and configured the Kali Linux and Windows 10 virtual machines in VirtualBox.
+-  Connected both virtual machines to the same NAT Network.
+- Configured and checked their IP addresses and network settings.
+- Used 'ip addr' and 'ip route` on Kali Linux to check the network configuration.
+- Used 'ipconfig /all` on Windows to check its network settings.
+- Used 'ping` to test connectivity between the two machines.
+- Investigated network issues and made adjustments where necessary.
 
 5. Problems Encountered and Solutions
 
