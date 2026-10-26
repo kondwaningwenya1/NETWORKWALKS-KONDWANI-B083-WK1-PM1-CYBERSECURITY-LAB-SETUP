@@ -18,13 +18,21 @@ This project documents a practical task assigned by my internship instructor. Th
 3. Lab Setup
 
  Virtualisation software : Oracle VirtualBox 
+ 
  Security testing machine : Kali Linux 
+ 
  Target machine : Windows 10 
+ 
  Network type : NAT Network 
+ 
  Network name : NatNetwork 
+ 
  Network address : 10.0.0.0/24 
+ 
  Gateway : 10.0.0.1 
+ 
  Kali Linux IP : 10.0.0.2 
+ 
  Windows 10 IP : 10.0.0.10 
 
  4. Steps Followed
