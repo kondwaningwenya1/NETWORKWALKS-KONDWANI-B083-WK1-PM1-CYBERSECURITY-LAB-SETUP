@@ -75,8 +75,14 @@ I used the following checks to verify the lab configuration:
 - Used 'ping` to test communication between Kali Linux and Windows 10.
 - Checked the network interfaces and routing information on Kali Linux.
 - Used 'ipconfig /all` to inspect the Windows network configuration.
+
+Kali Linux ping Windows 10
   <img width="1366" height="768" alt="kali-linux-ping-windows" src="https://github.com/user-attachments/assets/601df3b5-fc84-40ee-8c8e-602ffc41cd3c" />
+
+
+  Windows 10 Lab ping Kali Linux
   <img width="1366" height="768" alt="windows-10-lab-ping-kali" src="https://github.com/user-attachments/assets/2ed065c1-4d63-4f0b-9bee-8b66f41fbe9e" />
+  
 
 
 
