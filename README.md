@@ -5,7 +5,7 @@ A hands-on cybersecurity lab with Kali Linux, Windows 10, and VirtualBox.
 
 1. Overview
 
-This project documents a practical task assigned by my internship instructor. The task involved setting up Kali Linux and Windows 10 in Oracle VirtualBox, configuring their network settings, and testing connectivity between the two machines.
+This project documents a practical task of my first Cybersecurity B083-WK1-PM1-Lab-Setup. The task involved setting up Kali Linux and Windows 10 in Oracle VirtualBox, configuring their network settings, and testing connectivity between the two machines.
 
 2. Objectives
 
